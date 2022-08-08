@@ -19,6 +19,16 @@
 
 
 
+## Reference
+
+1. https://github.com/ermongroup/Wifi_Activity_Recognition
+
+2. https://github.com/parisafm/CSI-HAR-Dataset
+
+3. https://github.com/ludlows/CSI-Activity-Recognition
+
+   
+
 
 
 
