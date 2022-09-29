@@ -1,5 +1,7 @@
 # Cross-Person HAR
 
+The content of this article was published in IEEE VTC2022-Fall
+
 ## Dataset
 
 1. Download dataset from here: 
